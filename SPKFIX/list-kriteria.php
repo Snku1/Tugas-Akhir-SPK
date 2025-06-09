@@ -21,10 +21,10 @@ require_once('template-parts/header.php');
 					$msg = 'Kriteria baru berhasil dibuat';
 					break;
 				case 'sukses-hapus':
-					$msg = 'Kriteria behasil dihapus';
+					$msg = 'Kriteria berhasil dihapus';
 					break;
 				case 'sukses-edit':
-					$msg = 'Kriteria behasil diedit';
+					$msg = 'Kriteria berhasil diedit';
 					break;
 			endswitch;
 			
