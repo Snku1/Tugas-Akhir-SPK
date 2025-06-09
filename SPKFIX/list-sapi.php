@@ -18,13 +18,13 @@ require_once('template-parts/header.php');
 			$msg = '';
 			switch($status):
 				case 'sukses-baru':
-					$msg = 'Data sapi baru berhasil ditambahkan';
+					$msg = 'Data Sapi baru berhasil ditambahkan';
 					break;
 				case 'sukses-hapus':
-					$msg = 'sapi behasil dihapus';
+					$msg = 'Sapi berhasil dihapus';
 					break;
 				case 'sukses-edit':
-					$msg = 'sapi behasil diedit';
+					$msg = 'Sapi berhasil diedit';
 					break;
 			endswitch;
 			
