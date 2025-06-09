@@ -234,7 +234,7 @@ endforeach;
 			<thead>					
 				<tr>
 					<th>Rank</th>
-					<th>No. Sapi</th>
+					<th class="super-top-left">No. Sapi</th>
 					<th>Hasil</th>
 				</tr>
 			</thead>
